@@ -1,8 +1,3 @@
-class Hello
-{
-Public static void main(String args[])
-{
-System.out.println(“hello”);
-}
-}
-
+my name is kalidoss
+10th commit
+modified by remote
