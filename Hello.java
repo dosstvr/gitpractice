@@ -1,3 +1,3 @@
 my name is kalidoss
 10th commit
-modified by remotes
+modified by remote
